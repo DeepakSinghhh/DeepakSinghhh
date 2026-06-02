@@ -20,6 +20,7 @@
 ```javascript
 const deepak = {
   name: "Deepak Kumar Singh",
+  education: "2nd year ECE Student @ CSJMU"
   role: "Full Stack Engineer",
   stack: ["MERN", "React", "Node.js"],
   learning: ["Generative AI", "Agentic AI", "ML"],
@@ -28,11 +29,12 @@ const deepak = {
   motto: "Code. Learn. Build. Repeat. 🚀"
 };
 ```
-
-- 🔭 Currently working on **Bluetooth Wireless Mesh Network**
 - 🌱 Learning **MERN Stack, Generative & Agentic AI, and ML architectures**
-- 👯 Looking to collaborate on **Open Source Projects in GSSoC 2026**
-- 💬 Ask me about **DSA, C++, React.js, Node.js, 8085/8086 Microprocessors**
+- 🛠️ Open Source: Actively contributing to open-source ecosystems through GirlScript Summer of Code (GSSoC) 2026.
+- 🧠 Core Expertise: Deeply passionate about DSA in C++, full-stack web applications.
+- 👑 Leadership: Led a team of 6 engineering students to victory in the Smart India Hackathon (SIH) university round.
+- 🏆 Hackathon Track Record: Finalist at Hackshodh and secured 3rd place in the Responsible Rumble Hackathon.
+
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/deepak-kumar-singh-698b02350/)
 - 📫 Reach me at **deepak.kr.s10000@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/17o4ti5gKZESGO4dMKQLjZo35CVguzp-m/view?usp=sharing)

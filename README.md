@@ -106,55 +106,52 @@ const deepak = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeepakSinghhh&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="DeepakSinghhh" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakSinghhh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="DeepakSinghhh" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=DeepakSinghhh&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="DeepakSinghhh" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=DeepakSinghhh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="DeepakSinghhh" height="180"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSinghhh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="DeepakSinghhh" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSinghhh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="DeepakSinghhh" />
 </div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=DeepakSinghhh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
-## 🐍 My Contribution Snake
-
-![Github Snake](https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeepakSinghhh/DeepakSinghhh/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
+---
 
 ## 💡 Featured Projects
 
 <div align="center">
-
-[![amigo](https://github-readme-stats.vercel.app/api/pin/?username=DeepakSinghhh&repo=amigo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/DeepakSinghhh/amigo)
-[![Mesh-Rescue-Net](https://github-readme-stats.vercel.app/api/pin/?username=DeepakSinghhh&repo=Mesh-Rescue-Net&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/DeepakSinghhh/Mesh-Rescue-Net)
-
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/DeepakSinghhh/amigo">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=DeepakSinghhh&repo=amigo&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="amigo" width="400"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/DeepakSinghhh/Mesh-Rescue-Net">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=DeepakSinghhh&repo=Mesh-Rescue-Net&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Mesh-Rescue-Net" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
-
 ## 🎯 Coding Profiles
 
 <div align="center">

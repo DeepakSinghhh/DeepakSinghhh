@@ -39,7 +39,7 @@ Hackathon (SIH) university round.
 Responsible Rumble Hackathon.
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/deepak-kumar-singh-698b02350/)
 - 📫 Reach me at **deepak.kr.s10000@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/17o4ti5gKZESGO4dMKQLjZo35CVguzp-m/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1DNXJ8Ucy6Kd2i84BJ6EsKy9W22GBUahM/view?usp=sharing)
 
 <br clear="right"/>
 

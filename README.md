@@ -37,7 +37,7 @@ const deepak = {
 Hackathon (SIH) university round.
 - 🏆 Hackathon Track Record: Finalist at Hackshodh and secured 3rd place in the
 Responsible Rumble Hackathon.
-- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/deepak-kumar-singh-698b02350/)
+- 📝 I write articles on [LinkedIn](https://medium.com/@DeepakSinghhh)
 - 📫 Reach me at **deepak.kr.s10000@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1DNXJ8Ucy6Kd2i84BJ6EsKy9W22GBUahM/view?usp=sharing)
 

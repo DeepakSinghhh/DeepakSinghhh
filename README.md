@@ -180,7 +180,7 @@ Responsible Rumble Hackathon.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-**"First, solve the problem. Then, write the code." — John Johnson**
+**"Give a man a program, it will frustrate him for a day. Teach a man to program, it will frustrate him for a lifetime.**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 

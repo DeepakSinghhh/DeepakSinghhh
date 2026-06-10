@@ -24,7 +24,7 @@ const deepak = {
   role: "Full Stack Engineer",
   stack: ["MERN", "React", "Node.js"],
   learning: ["Generative AI", "Agentic AI", "ML"],
-  currentProject: "Bluetooth Wireless Mesh Network",
+  currentProject: " multiagent-job-search-crewai",
   openSource: "GSSoC 2026 Contributor",
   motto: "Code. Learn. Build. Repeat. 🚀"
 };

@@ -19,7 +19,7 @@
 ```javascript
 const deepak = {
   name: "Deepak Kumar Singh",
-  education: "2nd year ECE Student @ CSJMU"
+  education: "3rd year ECE Student @ CSJMU"
   role: "Full Stack Engineer",
   stack: ["MERN", "React", "Node.js"],
   learning: ["Generative AI", "Agentic AI", "ML"],
